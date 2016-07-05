@@ -5,7 +5,7 @@ public class main{
 	public static void main(String [] args)
 	{
 		NoPackage np=new NoPackage();
-		//cycadd
+		//cycad³ÂÓñ³¬d
 		np.play();
 	}
 }
